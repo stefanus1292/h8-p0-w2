@@ -1,0 +1,23 @@
+Soal no 1
+INPUT ( F =Newton, m= Mass Of Matter, a=acceleration);
+KNOWN ("m = 600 kg, a = 2 m/s2");
+CALCULATION ("F = m*a");
+RESULT ("number");
+
+NO 2 
+INPUT ("Leap Year");
+IF ("year / 4, % 4");
+IF ("year / 4, / 100. / 400);
+RESULT ("number");
+
+No 3 
+INPUT ("Laundry");
+IF ("clothes > 20 = machine on);
+IF ("clothes < 20 = machine off);
+RESULT ("On / Off");
+
+No 4 
+INPUT (" 40 student in class");
+IF (" student have long nail = Bad student");
+IF (" student have short nail = Good student");
+RESULT ("good / Bad student");
