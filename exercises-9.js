@@ -20,4 +20,4 @@ var address = "Jln. jalan, Malioboro, Yogyakarta";
 var hobby = "Memancing";
 
 var fullSentence = processSentence(name,age,address,hobby);
-console.log(""Nama saya [Name], umur saya [Age] tahun, alamat saya di [Address], dan saya punya hobby yaitu [hobby]!""); 
+console.log("Nama saya [Name], umur saya [Age] tahun, alamat saya di [Address], dan saya punya hobby yaitu [hobby]!"); 
