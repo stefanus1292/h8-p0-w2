@@ -21,7 +21,7 @@ var nama ='Broto';
 var peran='ksatria';
 if (nama == 'Broto');{
     console.log("Selamat datang di Dunia Proxytia, Broto"
-    "Halo Ksatria Broto, kamu dapat menyerang dengan senjatamu!");
+    console.log(`Halo Ksatria Broto, kamu dapat menyerang dengan senjatamu!`${peran});
 }
  else {
     console.log("Nama harus diisi bos!");
@@ -29,7 +29,7 @@ if (nama == 'Broto');{
 var nama ='Jing';
 var peran='Tabib';
 if(nama=='jing');{
-    "Selamat datang di Dunia Proxytia, Jing"
+    console.log(`Selamat datang di Dunia Proxytia, ${nama}`);
 "Halo Tabib Jing, kamu akan membantu temanmu yang terluka."
 }
  else {
